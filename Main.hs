@@ -1,6 +1,6 @@
 module Main where
 
-import P5
+import P6
 
 main :: IO ()
 main = run
