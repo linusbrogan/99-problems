@@ -1,5 +1,6 @@
 module P4
     ( run
+    , myLength
     ) where
 
 

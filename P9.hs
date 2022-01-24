@@ -1,5 +1,6 @@
 module P9
     ( run
+    , pack
     ) where
 
 run :: IO ()
