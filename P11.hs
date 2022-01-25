@@ -1,5 +1,6 @@
 module P11
     ( run
+    , Duplicate(..)
     ) where
 
 import P1 (myLast)
